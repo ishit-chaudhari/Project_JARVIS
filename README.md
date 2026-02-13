@@ -83,6 +83,3 @@ python main.py --text
 - `skills/`: Individual capability modules.
 - `assets/`: Images and resources.
 
-## 🛡️ License
-
-[Your License Here]
